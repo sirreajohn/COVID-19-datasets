@@ -1,14 +1,20 @@
 # COVID-19-datasets
 
-datasets of confrimed cases and fatal-cases sorted country wise alphabetically
+Datasets of confrimed cases and fatal-cases sorted country wise alphabetically
 
 ## Details of each country set:
 
 * All sets are preprocessed and ready to be used in training models..
 * This data is from 1st feb 2020 to 14th april 2020
-* the second index is to keep track of dates i.e index 12 suggests that it is day 12(12th feb 2020) from feb 1st 2020
+* The second index is to keep track of dates i.e index 12 suggests that it is day 12(12th feb 2020) from feb 1st 2020
+
+![image instruc](https://github.com/sirreajohn/COVID-19-datasets/blob/master/ignore/instruc.PNG)
 
 
+- *This column is for day count
+- **This is for confirmed cases in that country till April 14th 2020
+- ***This is for fatal-cases in that country till April 14th 2020
+- ****Index
 
 ##### references
 
